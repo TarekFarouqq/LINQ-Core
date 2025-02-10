@@ -1,0 +1,14 @@
+D:\C#\LINQTask\bin\Debug\net8.0\LINQTask.exe
+D:\C#\LINQTask\bin\Debug\net8.0\LINQTask.deps.json
+D:\C#\LINQTask\bin\Debug\net8.0\LINQTask.runtimeconfig.json
+D:\C#\LINQTask\bin\Debug\net8.0\LINQTask.dll
+D:\C#\LINQTask\bin\Debug\net8.0\LINQTask.pdb
+D:\C#\LINQTask\obj\Debug\net8.0\LINQTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LINQTask\obj\Debug\net8.0\LINQTask.AssemblyInfoInputs.cache
+D:\C#\LINQTask\obj\Debug\net8.0\LINQTask.AssemblyInfo.cs
+D:\C#\LINQTask\obj\Debug\net8.0\LINQTask.csproj.CoreCompileInputs.cache
+D:\C#\LINQTask\obj\Debug\net8.0\LINQTask.dll
+D:\C#\LINQTask\obj\Debug\net8.0\refint\LINQTask.dll
+D:\C#\LINQTask\obj\Debug\net8.0\LINQTask.pdb
+D:\C#\LINQTask\obj\Debug\net8.0\LINQTask.genruntimeconfig.cache
+D:\C#\LINQTask\obj\Debug\net8.0\ref\LINQTask.dll
